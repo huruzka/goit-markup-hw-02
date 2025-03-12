@@ -1,5 +1,36 @@
 body {
-    font-family:
-    color:
-    background-color:
+    font-family: 'roboto',sans-serif;
+    font-size:  16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: rgba(67, 68, 85, 1);
+    background-color: rgba(255, 255, 255, 1);
+}
+ul {
+    list-style: none;
+    color: rgba(67, 68, 85, 1);
+}
+
+.hero{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    background-color: rgba(46, 47, 66, 1);
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    width: 1440px;
+    height: 600px;
+    padding: 72px;
+}
+.hero-title{
+        width: 496px;
+        height: 120px;
+        margin-left: 472px;
+}
+.hero-button{
+    background-color: rgba(77, 90, 229, 1);
+    color: rgba(255, 255, 255, 1);
+}
+.team {
+    background-color: rgba(244, 244, 253, 1);
 }
