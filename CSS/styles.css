@@ -11,15 +11,23 @@ ul {
     color: rgba(67, 68, 85, 1);
 }
 a {
+
     text-decoration: none;
     color: rgba(67, 68, 85, 1);
 }
 a:hover,
-a:focus,
-button:hover,
-button:focus{
-    cursor: pointer;
+a:focus{
     color: rgba(77, 90, 229, 1);
+}
+button:hover,
+button:focus {
+    cursor: pointer;
+    color: rgba(46, 47, 66, 1);
+    font-weight: 500;
+    
+}
+.header-links{
+        font-weight: 500;
 }
 .header-logo{
     font-family: 'Raleway',sans-serif;
@@ -27,9 +35,6 @@ button:focus{
     line-height: 21px;
     font-weight: 700;
     text-transform: uppercase;
-}
-.header-links{
-    font-weight: 500;
 }
 
 .hero{
