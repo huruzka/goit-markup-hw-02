@@ -49,6 +49,9 @@ h3 {
 .contacts{
     font-style: normal;
 }
+.contacts-lits{
+    letter-spacing: 0.02em;
+}
 .header-logo{
     color: #4d5ae5;
     font-family: 'Raleway',sans-serif;
@@ -96,6 +99,11 @@ color: #2e2f42;
 .team {
     background-color:#F4F4FD;
 }
+
+.team-foto{
+    background-color: #FFFFFF;
+}
+
 .team-title{
     font-size: 36px;
     line-height: 1.11;
