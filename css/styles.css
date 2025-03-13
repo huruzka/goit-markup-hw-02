@@ -50,6 +50,7 @@ h3 {
     font-style: normal;
 }
 .header-logo{
+    color: #4d5ae5;
     font-family: 'Raleway',sans-serif;
     font-size: 18px;
     line-height: 1.17;
@@ -57,14 +58,14 @@ h3 {
     font-weight: 700;
     text-transform: uppercase;
 }
-.logo-web{
-    color:#4d5ae5;
+span {
+    color: #2e2f42;
 }
 .logo-studio{
     color:#2e2f42;
 }
-footer .logo-studio{
-    color: #F4F4FD;
+.header-link-studio {
+color: #2e2f42;
 }
 .hero {
     font-weight: 700;
@@ -93,7 +94,7 @@ footer .logo-studio{
     letter-spacing: 0.02em;
 }
 .team {
-    background-color: #FFFFFF
+    background-color:#F4F4FD;
 }
 .team-title{
     font-size: 36px;
@@ -140,8 +141,11 @@ footer .logo-studio{
         line-height: 1.17;
         text-transform: uppercase;
         font-weight: 700;
-        color: #FFFFFF;
+        color:#4d5ae5;
         letter-spacing: 0.03em;
+    }
+    .logo-studio{
+        color: #f4f4fd;
     }
 .footer-text{
     letter-spacing: 0.02em;
